@@ -15,16 +15,19 @@ approved changes to a new workbook in one batch.
 
 
 **Pre-upload**
+
 <img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/325cd7e8-9c7a-4205-a5b3-f58d6f9dd829" />
 
 
 
 **Post-upload**
+
 <img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/de6476b9-88cd-4b69-927e-918fadc36f6b" />
 
 
 
-**Excel-upload**                                                                            
+**Excel-upload**                 
+
 <img width="872" height="681" alt="image" src="https://github.com/user-attachments/assets/b7f5a3b4-6691-49f7-8d58-9a6848a2aafc" />
 
 
