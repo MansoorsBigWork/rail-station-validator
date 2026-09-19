@@ -1,0 +1,34 @@
+alias,targets,kind,source
+Kings Cross,London Kings Cross,shorthand,London termini are usually written without the city
+St Pancras,London St Pancras International,shorthand,London termini are usually written without the city
+Euston,London Euston,shorthand,London termini are usually written without the city
+Paddington,London Paddington,shorthand,London termini are usually written without the city
+Marylebone,London Marylebone,shorthand,London termini are usually written without the city
+Liverpool Street,London Liverpool Street,shorthand,London termini are usually written without the city
+Fenchurch Street,London Fenchurch Street,shorthand,London termini are usually written without the city
+Cannon Street,London Cannon Street,shorthand,London termini are usually written without the city
+Blackfriars,London Blackfriars,shorthand,London termini are usually written without the city
+Waterloo,London Waterloo,shorthand,London termini are usually written without the city (also clashes with Waterloo (Merseyside))
+Charing Cross,London Charing Cross,shorthand,London termini are usually written without the city (also clashes with Charing Cross (Glasgow))
+Victoria,London Victoria|Manchester Victoria,shorthand,Victoria on its own is used for both London Victoria and Manchester Victoria
+Piccadilly,Manchester Piccadilly,shorthand,Common short form of the station name
+Oxford Road,Manchester Oxford Road,shorthand,Common short form of the station name
+Lime Street,Liverpool Lime Street,shorthand,Common short form of the station name
+New Street,Birmingham New Street,shorthand,Common short form of the station name
+Snow Hill,Birmingham Snow Hill,shorthand,Common short form of the station name
+Moor Street,Birmingham Moor Street,shorthand,Common short form of the station name
+Temple Meads,Bristol Temple Meads,shorthand,Common short form of the station name
+Queen Street,Glasgow Queen Street|Cardiff Queen Street,shorthand,Queen Street on its own is used for stations in both Glasgow and Cardiff
+Edinburgh Waverley,Edinburgh,shorthand,NaPTAN lists Edinburgh Waverley under the name Edinburgh
+Waverley,Edinburgh,shorthand,NaPTAN lists Edinburgh Waverley under the name Edinburgh
+Newcastle Central,Newcastle,shorthand,NaPTAN lists Newcastle Central under the name Newcastle
+Allerton,Liverpool South Parkway,former_name,Allerton station was replaced by Liverpool South Parkway in 2006; NaPTAN still holds the old TIPLOC ALERTN for it
+Leeds City,Leeds,former_name,Historic name of Leeds station
+Manchester,Manchester Piccadilly|Manchester Victoria|Manchester Oxford Road|Deansgate,city,A city name alone does not identify a station
+Liverpool,Liverpool Lime Street|Liverpool Central|Liverpool James Street|Moorfields,city,A city name alone does not identify a station
+Birmingham,Birmingham New Street|Birmingham Moor Street|Birmingham Snow Hill,city,A city name alone does not identify a station
+Glasgow,Glasgow Central|Glasgow Queen Street,city,A city name alone does not identify a station
+Bristol,Bristol Temple Meads|Bristol Parkway,city,A city name alone does not identify a station
+Cardiff,Cardiff Central|Cardiff Queen Street,city,A city name alone does not identify a station
+London,London Kings Cross|London St Pancras International|London Euston|London Paddington|London Waterloo|London Victoria|London Liverpool Street|London Bridge|London Marylebone|London Charing Cross|London Cannon Street|London Fenchurch Street|London Blackfriars,city,A city name alone does not identify a station
+Bath,Bath Spa,shorthand,Bath Spa is the only main-line station serving Bath

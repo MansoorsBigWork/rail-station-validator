@@ -1,0 +1,15 @@
+# Raw NaPTAN download (about 100 MB, refreshed monthly): rebuild with scripts/build_catalog.py
+raw/
+Stops*.csv
+
+# Generated outputs
+validation_results.xlsx
+proposed_corrections.xlsx
+corrected_*.xlsx
+
+# Python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
