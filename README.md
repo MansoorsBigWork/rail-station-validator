@@ -1,6 +1,7 @@
 # Rail Station Validator
 
-![tests](https://github.com/YOUR-USERNAME/rail-station-validator/actions/workflows/tests.yml/badge.svg)
+![tests]
+(https://github.com/YOUR-USERNAME/rail-station-validator/actions/workflows/tests.yml/badge.svg)
 
 A human-in-the-loop tool for validating UK rail station names in travel
 expense claims against the Department for Transport's NaPTAN register of
