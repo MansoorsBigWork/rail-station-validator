@@ -9,6 +9,17 @@ codes, short forms, former names and typos) while keeping the judgement
 calls with a person, who reviews every proposed correction and commits
 approved changes to a new workbook in one batch.
 
+## UI Screen shots
+
+**Pre-upload**
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/325cd7e8-9c7a-4205-a5b3-f58d6f9dd829" />
+
+**Post-upload**
+<img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/de6476b9-88cd-4b69-927e-918fadc36f6b" />
+
+**Excel-upload**
+<img width="872" height="681" alt="image" src="https://github.com/user-attachments/assets/b7f5a3b4-6691-49f7-8d58-9a6848a2aafc" />
+
 ## Why this exists
 
 Finance teams check thousands of expense claims where staff type station
